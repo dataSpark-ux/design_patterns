@@ -1,4 +1,4 @@
-package com.example.design_patterns;
+package com.example.design;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
